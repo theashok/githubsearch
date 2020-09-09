@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/githubsearch/static/css/main.c8b9855a.chunk.css",
+    "main.js": "/githubsearch/static/js/main.3995ecad.chunk.js",
+    "main.js.map": "/githubsearch/static/js/main.3995ecad.chunk.js.map",
+    "runtime-main.js": "/githubsearch/static/js/runtime-main.d78fa836.js",
+    "runtime-main.js.map": "/githubsearch/static/js/runtime-main.d78fa836.js.map",
+    "static/css/2.d4d8b05c.chunk.css": "/githubsearch/static/css/2.d4d8b05c.chunk.css",
+    "static/js/2.cf79e331.chunk.js": "/githubsearch/static/js/2.cf79e331.chunk.js",
+    "static/js/2.cf79e331.chunk.js.map": "/githubsearch/static/js/2.cf79e331.chunk.js.map",
+    "index.html": "/githubsearch/index.html",
+    "precache-manifest.9b65dae1f6d99ed2e47e4078e33d339f.js": "/githubsearch/precache-manifest.9b65dae1f6d99ed2e47e4078e33d339f.js",
+    "service-worker.js": "/githubsearch/service-worker.js",
+    "static/css/2.d4d8b05c.chunk.css.map": "/githubsearch/static/css/2.d4d8b05c.chunk.css.map",
+    "static/css/main.c8b9855a.chunk.css.map": "/githubsearch/static/css/main.c8b9855a.chunk.css.map",
+    "static/js/2.cf79e331.chunk.js.LICENSE.txt": "/githubsearch/static/js/2.cf79e331.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/githubsearch/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/font-awesome-5.8.1.css": "/githubsearch/static/media/fa-solid-900.f9b85c94.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d78fa836.js",
+    "static/css/2.d4d8b05c.chunk.css",
+    "static/js/2.cf79e331.chunk.js",
+    "static/css/main.c8b9855a.chunk.css",
+    "static/js/main.3995ecad.chunk.js"
+  ]
+}
