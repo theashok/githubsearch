@@ -24,9 +24,7 @@ class GithubSearch extends React.Component {
       <React.Fragment>
         {/* <pre>{JSON.stringify(this.state)}</pre>*/}
         <div className="card mt-3">
-          <div className="card-header bg-secondary text-white">
-            <p className="h4">Github Profile Search</p>
-          </div>
+          <div className="card-header bg-secondary text-white"></div>
           <div className="card-body">
             <form className="form-inline" onSubmit={this.submitSearch}>
               <div className="form-group">
