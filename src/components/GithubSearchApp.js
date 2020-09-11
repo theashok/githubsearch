@@ -25,7 +25,7 @@ class GithubSearchApp extends React.Component {
   };
 
   searchUserProfile = (username) => {
-    let dataURL = `https://api.github.com/users/${username}/?clientId=${clientID}&clientSecret=${clientSecret}`;
+    let dataURL = `https://api.github.com/users/${username}?clientId=${clientID}&clientSecret=${clientSecret}`;
     Axios.get(dataURL)
       .then((response) => {
         this.setState({
@@ -40,7 +40,7 @@ class GithubSearchApp extends React.Component {
   };
 
   searchUserRepos = (username) => {
-    let dataURL = `https://api.github.com/users/${username}/repos/?clientId=${clientID}&clientSecret=${clientSecret}`;
+    let dataURL = `https://api.github.com/users/${username}/repos?clientId=${clientID}&clientSecret=${clientSecret}`;
     Axios.get(dataURL)
       .then((response) => {
         this.setState({
